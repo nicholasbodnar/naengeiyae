@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aishucungu.sfdc-demo.com/sitemap.xml
